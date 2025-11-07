@@ -61,7 +61,6 @@ While Brute Force times out for large values, DP can handle inputs as large as `
 | 10¹⁸ | (timeout) | 0.38 | 8,129,394,333,756,324 |
 | 10¹⁰⁰ | (timeout) | 1.25 | ≈ 9.34 × 10⁹⁹ |
 
-*Results reproduced from Table II of the research paper.*
 ---
 
 ## ⚙️ How to Run the Code
