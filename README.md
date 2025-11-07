@@ -62,10 +62,6 @@ While Brute Force times out for large values, DP can handle inputs as large as `
 | 10¹⁰⁰ | (timeout) | 1.25 | ≈ 9.34 × 10⁹⁹ |
 
 *Results reproduced from Table II of the research paper.*
-
-![Performance Graph](https://i.imgur.com/8Q9tG8Y.png)  
-*Figure 1 – Log-log plot of execution time vs. input size.*
-
 ---
 
 ## ⚙️ How to Run the Code
@@ -97,6 +93,7 @@ For a detailed mathematical analysis, recurrence relations, and applications
 CountNumbersWithoutConsecutiveDigits.pdf
 
 👩‍💻 Authors
+
 Abdulkader Adnan Ibrahim
 
 Karem Gamal
