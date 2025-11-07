@@ -91,17 +91,17 @@ For a detailed mathematical analysis, recurrence relations, and applications
 
 CountNumbersWithoutConsecutiveDigits.pdf
 
-### 👩‍💻 Authors
+# 👩‍💻 Authors
 
-# Abdulkader Adnan Ibrahim
+### Abdulkader Adnan Ibrahim
 
-# Karem Gamal
+### Karem Gamal
 
-# Ali Mohamed
+### Ali Mohamed
 
-# Marwan Ayman
+### Marwan Ayman
 
-# Omar Ali Eissa
+### Omar Ali Eissa
 
 ## Faculty of Computer Science, Misr International University, Cairo, Egypt
 
